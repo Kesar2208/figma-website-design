@@ -18,7 +18,7 @@ This is a modern and responsive **Gym & Fitness Website** designed in Figma. The
 
 ## Screenshots
 
-| Desktop View | Mobile View | Other Sections |
+| Desktop View | Navigation | Other Sections |
 |--------------|-------------|----------------|
 | ![Website](images/Website.png) | ![hamburger](images/hamburger.png) | ![about](images/about.png) <br> ![Contact](images/Contact.png) <br> ![Plan](images/Plan.png) |
 
