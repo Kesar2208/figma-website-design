@@ -43,16 +43,3 @@ This is a modern and responsive **Gym & Fitness Website** designed in Figma. The
 - Structured with usability in mind
 
 ---
-
-## Project Structure
-
-Figma-Website-Design/
-├── README.md
-├── images/
-│ ├── cover.png
-│ ├── Website.png
-│ ├── about.png
-│ ├── Contact.png
-│ ├── Plan.png
-│ └── hamburger.png
-├── figma-link.txt
